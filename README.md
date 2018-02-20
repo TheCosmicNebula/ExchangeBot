@@ -1,5 +1,5 @@
 # ExchangeBot
-A discord bot.
+A Discord bot.
 
 ## Licence
 This repo does not have a licence. This means that by default, it is All Rights Reserved. However, due to having complete control over what rights that includes, here is a list of what you can & cannot do:
