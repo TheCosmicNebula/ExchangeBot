@@ -1,0 +1,23 @@
+[
+  {
+    "Discord_Name": "TheRealZeher",
+    "Drops": 0,
+    "Social_Club": "TheRealZeher",
+    "User_Id": "190950093812137984",
+    "Strikes": 0
+  },
+  {
+    "Discord_Name": "SlyTheFox",
+    "Drops": 0,
+    "Social_Club": "SlyTheFox",
+    "User_Id": "269203929152094208",
+    "Strikes": 0
+  },
+  {
+    "Discord_Name": "TinyBaby",
+    "Drops": 0,
+    "Social_Club": "LittleTike",
+    "User_Id": "269203929152094208",
+    "Strikes": 0
+  }
+]
