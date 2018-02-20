@@ -1,6 +1,4 @@
 # ExchangeBot
-===================
-
 A discord bot.
 
 ## Licence
