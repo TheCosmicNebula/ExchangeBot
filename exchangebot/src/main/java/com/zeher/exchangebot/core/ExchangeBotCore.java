@@ -27,7 +27,7 @@ import de.btobastian.javacord.listener.message.MessageCreateListener;
 
 public class ExchangeBotCore {
 	
-	private static final String token = "MjcyODU5Mzk4MzU4MDQwNTc2.C2bZfg.x1mP7GeZZdaPJU93xpg-IQVa8Z0";
+	private static final String token = "";
 	
 	public static String drop_entry_name;
 	public static boolean is_drop_open = false;
