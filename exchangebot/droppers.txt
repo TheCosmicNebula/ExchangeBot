@@ -1,17 +1,14 @@
 [
   {
     "Discord_Name": "SlyTheFox",
-    "Social_Club": "YellowTheBanana",
-    "User_Id": "269203929152094208"
+    "Social_Club": "YellowTheBanana"
   },
   {
     "Discord_Name": "ManWithaPlan",
-    "Social_Club": "ImAWanker",
-    "User_Id": "190948203317821440"
+    "Social_Club": "ImAWanker"
   },
   {
     "Discord_Name": "TheRealZeher",
-    "Social_Club": "SillyBanana",
-    "User_Id": "190950093812137984"
+    "Social_Club": "SillyBanana"
   }
 ]
